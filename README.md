@@ -12,11 +12,10 @@ layout:
     visible: true
 ---
 # Index
-*for ando's oscp notebook*
+for ando's oscp notebook
 
-#### Links:
-
-**Active Directory Exploitation**
+## Links:
+### Active Directory Exploitation
 
 [Enumeration](active-directory/enumeration.md)
 
