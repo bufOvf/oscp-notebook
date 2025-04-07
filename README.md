@@ -11,30 +11,12 @@ layout:
   pagination:
     visible: true
 ---
-
 # Index
+*for ando's oscp notebook*
 
-## OSCP Notebook
+#### Links:
 
-Ando's OSCP notebook.
-
-\[Active Directory]\(Active Directory/Enumeration.md]
-
-{% content-ref url="active-directory/enumeration.md" %}
-[enumeration.md](active-directory/enumeration.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-
-
-
-
-
-
-* Privilege Escalation
-
+**Active Directory Exploitation**
+[Enumeration](active-directory/enumeration.md)
 
 
