@@ -20,11 +20,14 @@ layout:
 
 # Index
 
-test
+[test](getting-started/quickstart.md)
 
+
+
+[search engine](https://www.google.com)
 
 ### Jump right in
 
-1. [[quickstart]]
+1. \[\[quickstart]]
 
-[[publish-your-docs]]
+\[\[publish-your-docs]]
