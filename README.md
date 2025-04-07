@@ -26,8 +26,3 @@ layout:
 
 [search engine](https://www.google.com)
 
-### Jump right in
-
-1. \[\[quickstart]]
-
-\[\[publish-your-docs]]
