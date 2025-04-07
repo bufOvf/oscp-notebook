@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 # Index
-bufOvf's oscp notebook
+buf0vf's oscp notebook
 
 ## Links:
 ### Active Directory Exploitation
