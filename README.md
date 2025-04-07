@@ -1,11 +1,5 @@
 ---
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -20,9 +14,27 @@ layout:
 
 # Index
 
-[test](getting-started/quickstart.md)
+## OSCP Notebook
+
+Ando's OSCP notebook.
+
+\[Active Directory]\(Active Directory/Enumeration.md]
+
+{% content-ref url="active-directory/enumeration.md" %}
+[enumeration.md](active-directory/enumeration.md)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 
 
-[search engine](https://www.google.com)
+
+
+
+
+* Privilege Escalation
+
+
 
